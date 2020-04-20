@@ -47,18 +47,6 @@ decode_display_predictions('Mountain.jpg',get_image_vector_vgg19('Mountain.jpg')
 
 decode_display_predictions('Car.jpg',get_image_vector_vgg19('Car.jpg'))
 
-decode_display_predictions('Dog.jpg',get_image_vector_vgg19('Dog.jpg'))
-
-decode_display_predictions('Computer.jpg',get_image_vector_vgg19('Computer.jpg'))
-
-decode_display_predictions('Doctor.jpg',get_image_vector_vgg19('Doctor.jpg'))
-
 decode_display_predictions('Mountain.jpg',get_image_vector_resnet50('Mountain.jpg'))
 
 decode_display_predictions('Car.jpg',get_image_vector_resnet50('Car.jpg'))
-
-decode_display_predictions('Computer.jpg',get_image_vector_resnet50('Computer.jpg'))
-
-decode_display_predictions('Doctor.jpg',get_image_vector_resnet50('Doctor.jpg'))
-
-decode_display_predictions('Dog.jpg',get_image_vector_resnet50('Dog.jpg'))
